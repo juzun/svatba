@@ -77,9 +77,9 @@ strong { font-weight: 500; }
     display: flex;
     align-items: center;
     justify-content: center;
-    background:
+    /* background:
         linear-gradient(to bottom, rgba(26,18,16,0.45) 0%, rgba(26,18,16,0.25) 60%, rgba(26,18,16,0.55) 100%),
-        url("img/hero.jpg") center / cover no-repeat;
+        url("img/hero.jpg") center / cover no-repeat; */
     background-color: #2C2424; /* fallback when no photo */
     background-size: contain; /* The whole image will always be visible */
     background-position: center;
